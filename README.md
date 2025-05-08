@@ -13,7 +13,7 @@
 ### 🚀 Showcase Repos
 | Repo | Stack | What it shows |
 |------|-------|---------------|
-| **Regalscan** | YOLOv8 • LangChain • FAISS | Retail shelf monitoring |
+| **Regalscan** | YOLOv8 • ConvNext • FAISS | Retail shelf monitoring |
 | *(soon)* improved learning algorithm (better than adam) | numpy only | training speed-up |
 | *(soon)* PID auto tuning by ReInforcement Learning | python • numpy | auto-cal approach |
 | *(soon)* coffee machine controller | Atmel  C | perfect coffee |

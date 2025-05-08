@@ -7,7 +7,7 @@
 
 <p align="center">
  Computer-Vision pipeline that detects products on retail shelves to improve the shopping experience.<br>
- <strong>Python • YOLO v8 • OpenCV • LangChain • FAISS • AI</strong>
+ <strong>Python • YOLO v8 • OpenCV • FAISS • AI</strong>
 </p>
 
 <p align="center">

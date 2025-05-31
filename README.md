@@ -14,8 +14,8 @@
 | Repo | Stack | What it shows |
 |------|-------|---------------|
 | **Regalscan** | YOLOv8 • ConvNext • FAISS | Retail shelf monitoring |
+| **PID auto tuning by ReInforcement Learning** | python • numpy | auto-cal approach |
 | *(soon)* improved learning algorithm (better than adam) | numpy only | training speed-up |
-| *(soon)* PID auto tuning by ReInforcement Learning | python • numpy | auto-cal approach |
 | *(soon)* coffee machine controller | Atmel  C | perfect coffee |
 
 

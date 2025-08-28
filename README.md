@@ -5,7 +5,7 @@
 
 ## In this profile, I showcase some ideas I developed independently from any customer project
 
-🔭 **Inventing**: Creating new ideas, business models, prototypes from scratch, while thinking in serial production requirements 
+🔭 **Inventing**: Creating new ideas, business models, prototypes from scratch, while thinking in serial production requirements   
 🔭 **Building**: Computer-Vision & ML pipelines for industry (C++/Qt • PyTorch)  
 🔭 **Developing**: embedded control software architectures (Matlab/Simulink • ISO26262 conform • Rapid Control Prototyping)  
 🔭 **Background**: mechanical engineering, Prototyping on Arduino & Raspberry  

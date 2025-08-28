@@ -5,6 +5,7 @@
 
 ## In this profile, I showcase some ideas I developed independently from any customer project
 
+🔭 **Inventing**: Creating new ideas, business models, prototypes from scratch, while thinking in serial production requirements 
 🔭 **Building**: Computer-Vision & ML pipelines for industry (C++/Qt • PyTorch)  
 🔭 **Developing**: embedded control software architectures (Matlab/Simulink • ISO26262 conform • Rapid Control Prototyping)  
 🔭 **Background**: mechanical engineering, Prototyping on Arduino & Raspberry  
@@ -20,7 +21,7 @@
 
 
 ### 💬 Ask me about  
-Python · C++/Qt · MLOps · Matlab/Simulink · ISO 26262 · (ECU) calibration ·
+Python · C++ · MLOps · Matlab/Simulink · ISO 26262 · (ECU) calibration ·
 
 📫 [LinkedIn](…) • andy@gotter.de  
 <sub>Fun fact: I did operate my first car on my own ECU back in 2001</sub>

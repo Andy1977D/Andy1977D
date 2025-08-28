@@ -23,7 +23,7 @@
 ### 💬 Ask me about  
 Python · C++ · MLOps · Matlab/Simulink · ISO 26262 · (ECU) calibration ·
 
-📫 [LinkedIn](…) • andy@gotter.de  
+📫 [LinkedIn](https://www.linkedin.com/in/dr-andreas-gotter-279556a8/) • andy@gotter.de  
 <sub>Fun fact: I did operate my first car on my own ECU back in 2001</sub>
 
 
